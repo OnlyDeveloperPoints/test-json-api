@@ -1,5 +1,4 @@
-{
-  "signupform": [
+[
     {
       "Name": "sonu",
       "User_ID": "admin",
@@ -7,4 +6,3 @@
       "id": 1
     }
   ]
-}
